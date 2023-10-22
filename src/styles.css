@@ -1,1 +1,21 @@
 /* You can add global styles to this file, and also import other style files */
+.all{
+  background-color: aliceblue;
+}
+
+header{
+  font-size: 20px;
+}
+
+.col-sm-4{
+  align-items: center;
+}
+
+body{
+  align-items: center;
+  background-image: url('/catalogo_ang/src/img/descarga.jpeg');
+}
+
+footer{
+  font-size: 10px;
+}
